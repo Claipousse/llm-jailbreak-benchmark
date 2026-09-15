@@ -128,17 +128,6 @@ Le projet vise à :
 
 ---
 
-# Auteurs
-
-Projet réalisé dans le cadre d'un hackathon sur la sécurité des modèles de langage.
-
-- Claipousse 
-- Thomas 
-- Yanis
-- Christ
-
----
-
 # Licence
 
 Projet open-source destiné à la recherche sur la sécurité des LLM.
